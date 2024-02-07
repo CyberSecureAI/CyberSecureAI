@@ -52,5 +52,5 @@ My journey in cyber security has led me to develop a passion for all things cybe
 </div>
 
 ## Projects
-- Detection Lab
+- TryHackMe Labs
 - SOC Automation Project

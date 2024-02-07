@@ -6,7 +6,7 @@ I am Cyber Security Engineer who has spent the last 5 years improving my skillse
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cyber security has led me to develop a passion for all things cyber. My objective is to expand & grow my knowledge base skills within cyber security
 
 ## Skills
 

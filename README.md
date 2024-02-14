@@ -8,11 +8,11 @@ I am Cyber Security Engineer who has spent the last 5 years improving my skillse
 
 My journey in cyber security has led me to develop a passion for all things cyber. My objective is to expand & grow my knowledge base skills within cyber security
 
-## Skills
+## Highlighted Skillsets 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/CyberSecureAI/TryHackMe-Labs/tree/main">Detection Lab</a>|
+|Development of virtual lab for SOC Automation  | <a href="https://github.com/CyberSecureAI/SOC-Automation-Project"> SOC Automation Lab </a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

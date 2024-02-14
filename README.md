@@ -52,5 +52,5 @@ My journey in cyber security has led me to develop a passion for all things cybe
 </div>
 
 ## Projects
-- <a href="https://github.com/CyberSecureAI/TryHackMe-Labs/tree/main">TryHackMe Lab</a>
+- <a href="https://github.com/CyberSecureAI/TryHackMe-Hacktivites/tree/main">TryHackMe Lab</a>
 - <a href="https://github.com/CyberSecureAI/SOC-Automation-Project"> SOC Automation Project </a> 
